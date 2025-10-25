@@ -1,0 +1,10 @@
+.nav{
+    font-size: x-large;
+    
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    border: 1px solid white;
+}
