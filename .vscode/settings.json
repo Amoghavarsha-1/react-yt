@@ -1,0 +1,7 @@
+{
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "html-css-class-completion.enableEmmetSupport": true,
+    "tailwindCSS.emmetCompletions": true
+}
